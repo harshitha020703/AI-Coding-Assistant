@@ -1,1 +1,7 @@
-# AI-Coding-Assistant
+
+
+npm i
+
+
+npm run dev
+```
